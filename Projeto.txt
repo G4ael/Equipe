@@ -9,3 +9,5 @@ cd Equipe/
 git checkout -b "feature_class"
 git add .
 git commit -m "blablabla"
+
+git pull origin feature_class
