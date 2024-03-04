@@ -9,5 +9,7 @@ class Obj{
 }
 
 class Carro extends Obj{
+    des_car(){
+    }
 }
 
